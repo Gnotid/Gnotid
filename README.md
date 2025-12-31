@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gnotid
-- 👀 I’m interested in ALL THINGS COMPUTERS (specifically l i n u x)
-- 🌱 I’m currently learning l i n u x
+- 👀 I’m interested in quality of life software, and the inherrent customizability of linux distros
+- 🌱 I’m currently learning the basics of fedora kde plasma
 - 💞️ I’m looking to collaborate on l i n u x
 - 📫 How to reach me DISCORD! mt username is: gnotid.deb (ha)
 - 😄 Pronouns: he/him/his
